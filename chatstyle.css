@@ -1,0 +1,228 @@
+
+*{
+	padding: 0;
+	margin: 0;
+
+	background-color: #00BCD4;
+
+}
+#uh{
+	color: #FFFFFF;
+	font-family: Sansita;
+	font-size: 4em;
+	padding-top:12.4%;
+	
+	float: left;
+
+}
+#uh a{
+	color: #FFFFFF;
+	text-decoration: none;
+
+}
+#uh a:hover{
+	color: #FF5722;
+	
+	
+}
+
+
+#uhn{
+
+	margin-left: 13%;
+	color:#FF5722;
+	font-family: Pangolin;
+	
+	font-size:18em;
+	float: left;
+}
+#uheader{
+
+	margin-top:10%;
+	margin-left: 10%;
+	
+}
+#lhlform{
+	display: inline-block;
+	float: left;
+	padding-top: 3%;
+	padding-left: 100px;
+}
+#lh{
+	color: #FFFFFF;
+	font-family: Sansita;
+	font-size: 4em;
+	
+
+}
+#lhn{
+
+	margin-left: 18.9%;
+	color:#FF5722;
+	font-family: Pangolin;
+	
+	font-size:18em;
+	float: left;
+}
+#lform{
+	display: inline-block;
+
+}
+#lname{
+	margin-top: 20px;
+	width:12em;
+	background-color: #B2EBF2;
+	height:40px;
+	font-size: 23px;
+	text-align: center;
+	font-family: Pangolin;
+}
+#lpass{
+	margin-top: 20px;
+	width:12em;
+	background-color: #B2EBF2;
+	height:40px;
+	font-size: 23px;
+	text-align: center;
+	font-family: Pangolin;
+}
+#lsub{
+	margin-top: 20px;
+	width:12em;
+	background-color: #FF5722;
+	height:40px;
+	font-size: 23px;
+	text-align: center;
+	font-family: Pangolin;
+}
+#rcp{
+	font-family: Pangolin;
+	margin-top: 25%;
+	font-size:5em;
+}
+#rh{margin-top: 10%;
+	color: #FFFFFF;
+	font-family: Pangolin;
+	font-size: 4em;
+	text-align: center;
+	
+
+}
+#rhn{
+
+	color:#FF5722;
+	font-family: Pangolin;
+	
+	font-size:18em;
+	text-align: center;
+}
+#loh{margin-top: 10%;
+	color: #FFFFFF;
+	font-family: Pangolin;
+	font-size: 4em;
+	text-align: center;
+	
+
+}
+#loh a{
+	color:#FF5722;
+	text-decoration: none;
+}
+#loh a:hover{
+	font-size: 1.1em;
+	color:#FF5722;
+	text-decoration: none;
+}
+#lohn{
+
+	color:#FF5722;
+	font-family: Pangolin;
+	
+	font-size:18em;
+	text-align: center;
+}
+#cahn{
+
+	color:#FF5722;
+	font-family: Pangolin;
+	font-size:17em;
+	text-align: center;
+
+}
+#catxt{
+
+	
+	background-color: #B2EBF2;
+	
+	font-size: 23px;
+	text-align: center;
+	font-family: Pangolin;
+}
+#casub{
+	margin-top: 10px;
+	width:4em;
+	background-color: #FF5722;
+	height:40px;
+	font-size: 23px;
+	text-align: center;
+	font-family: Pangolin;
+}
+#caform{
+	text-align: center;
+	font-family: Pangolin;
+}
+
+#canc a{
+	text-decoration: none;
+	width:5em;
+	background-color: #FF5722;
+	height:40px;
+	font-size: 23px;
+	
+	font-family: Pangolin;
+}
+
+
+
+#user {
+	
+	text-align:right;
+	color:red;
+	border:2px solid white;
+	
+	font-family: Pangolin;
+	font-size: 1.6em;
+	margin-left: 700px;
+	margin-right: 50px;
+	float: right;
+	margin-top: 5px;
+	border-radius: 4px 0 0 4px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+#nuser {
+	margin-left: 480px;
+	
+	color:blue;
+	border:2px solid white;
+	margin-top:5px;
+	font-family: Pangolin;
+	font-size: 1.6em;
+	display: inline-block;
+	border-radius: 0 4px 4px 0;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#chatn{
+
+	margin-top: 15%;	
+	color:#FF5722;
+	font-family: Pangolin;
+	font-size:15em;
+	text-align: center;
+	float:left;
+	position: fixed;
+
+}
